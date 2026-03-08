@@ -149,7 +149,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**AbdullahMoin** - Full Stack Developer
+**Sadanand** - Full Stack Developer
 
 ## 📞 Contact & Support
 
